@@ -27,6 +27,7 @@
 
 .logo-container img {
     padding: 4px 0px 7px 0px;
+    border-radius: 40%;
 }
 
 .logo-container h1 span{
@@ -54,4 +55,21 @@
 
 .navigation a:last-child{
     padding-right: 0;
+}
+
+.mission {
+    background-image: url(./MTCROPPEDV2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    width: 45%;
+    height: 420px;
+    margin: 0 auto;
+    padding-top: px;
+    margin-top: 25px;
+    border-radius: 15%;
+}
+
+.mission h2{
+    color: rgb(201, 194, 194);
 }
